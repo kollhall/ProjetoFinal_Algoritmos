@@ -1,2 +1,2 @@
 # ProjetoFinal_Algoritmos
-<p style="text-align:center"> Basicamente um sistema de gerenciamento de mercado (Caixa Registradora). No qual, o usuário pode cadastrar, vender, consultar e obter o lucro da venda dos produtos</p>
+<p style="text-align:center"> Basicamente, um sistema de gerenciamento de mercado (Caixa Registradora). No qual, o usuário pode cadastrar, vender, consultar e obter o lucro da venda dos produtos. Se o usuário tente vender, consultar ou obter o lucro de um produto que não foi cadastrado, o sistema irá alerta-lo que o mesmo não foi encontrado no banco de dados (Array). </p>
